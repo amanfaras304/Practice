@@ -1,0 +1,1 @@
+// index.js - Main entry point for the application
